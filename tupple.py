@@ -1,0 +1,5 @@
+tup = ()
+tup1=("apple",1,"banana")
+tup3=("Prabhat",'c',170.67)
+print(tup3[0])
+print(tup1)
