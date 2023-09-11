@@ -1,7 +1,7 @@
 # Define variables with different data types
-integer_variable = 42
-float_variable = 3.14
-string_variable = "Hello, World!"
+integer_variable = 99
+float_variable = 3.1416
+string_variable = "HOW ARE YOU"
 list_variable = [1, 2, 3]
 tuple_variable = (4, 5, 6)
 dictionary_variable = {"name": "Prabhat", "age": 20}
