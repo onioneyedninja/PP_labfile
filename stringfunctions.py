@@ -1,21 +1,8 @@
-# Define a sample string
 my_string = "Hello, World!"
 
 # String Length
 length = len(my_string)
 print(f"Length of the string: {length}")
-
-# String Concatenation
-string1 = "Hello"
-string2 = " World"
-concatenated_string = string1 + string2
-print(f"Concatenated String: {concatenated_string}")
-
-# String Indexing and Slicing
-first_char = my_string[0]
-substring = my_string[7:12]
-print(f"First Character: {first_char}")
-print(f"Substring: {substring}")
 
 # String Case Conversion
 lowercase = my_string.lower()
