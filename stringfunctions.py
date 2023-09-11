@@ -41,6 +41,6 @@ print(f"Is Space: {is_space}")
 
 # String Formatting
 name = "Prabhat"
-age = 30
+age = 20
 formatted_string = f"My name is {name} and I am {age} years old."
 print(formatted_string)
