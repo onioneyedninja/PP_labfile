@@ -1,4 +1,3 @@
-# Read user input
 user_input = input("Enter a string: ")
 
 # Check and classify the input
